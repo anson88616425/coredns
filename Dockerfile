@@ -1,1 +1,1 @@
-FROM xiaochunping/coredns:1.3.1
+FROM xiaochunping/coredns:1.6.2
